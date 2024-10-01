@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 *.[oa]
 *~
+<<<<<<< HEAD
 =======
 output
+=======
+
+>>>>>>> 4a5886e523582505ddecda25f6eda8bbbdceb8ac
 .DS_Store
 
 # build artifacts
@@ -15,4 +19,7 @@ progit.fb2.zip
 progit-kf8.epub
 progit.mobi
 contributors.txt
+<<<<<<< HEAD
 >>>>>>> main
+=======
+>>>>>>> 4a5886e523582505ddecda25f6eda8bbbdceb8ac

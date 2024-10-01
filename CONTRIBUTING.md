@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 HIIII
 # test line
 =======
+=======
+>>>>>>> 4a5886e523582505ddecda25f6eda8bbbdceb8ac
 # Contributing to Pro Git (2nd Edition)
 
 ## Licensing your work to us
@@ -46,4 +49,7 @@ Name the slice so that it matches the destination PNG filename, relative from th
 ## Translations
 
 If you want to contribute to translating Pro Git into your language, take a look at [TRANSLATING.md](TRANSLATING.md).
+<<<<<<< HEAD
 >>>>>>> main
+=======
+>>>>>>> 4a5886e523582505ddecda25f6eda8bbbdceb8ac
